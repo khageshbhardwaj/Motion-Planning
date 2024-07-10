@@ -1,8 +1,6 @@
-# ECE276B PR2 Spring 2024
 # Motion Planning Algorithms: A* and RRT
 
 ## Overview
-
 This project compares the performance of two popular path planning algorithms: the search-based A* algorithm and the sampling-based Rapidly-Exploring Random Tree (RRT) algorithm. The comparison is made in various 3-D environments, focusing on path quality, computational efficiency, and adaptability.
 
 ## Directory Structure
